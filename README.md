@@ -85,9 +85,6 @@ A SQL project focused on analyzing pizza sales data and exploring product and sa
   <img src="https://streak-stats.demolab.com?user=Sapna2026&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Sapna2026-181717?style=for-the-badge&logo=github)](https://github.com/Sapna2026?tab=overview&from=2026-01-01&to=2026-12-31)
-
-[View my GitHub contribution calendar](https://github.com/Sapna2026)
 
 ---
 
